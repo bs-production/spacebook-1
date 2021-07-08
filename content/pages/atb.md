@@ -5,6 +5,6 @@ permalink: /design/branding/atb.html
 eleventyNavigation:
   order: 31
   key: ATB 
-  parent: Branding
+  parent: Design
 ---
 This is my ATB content! 👈
