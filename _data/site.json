@@ -1,5 +1,5 @@
 {
-  "name": "Treehouse Production Documentation",
+  "name": "Treehouse Design System",
   "subtitle": "Code snippets and guidelines to save you time.",
   "description": "Treehouse Production Documentation",
   "footer": "Made with ❤ in Seymour, CT",
@@ -12,9 +12,9 @@
   "enableDarkMode": true,
   "enableEditButton": true,
   "enableDatestamp": true,
-  "enableGithubLink": false,
+  "enableGithubLink": true,
   "enableContact": false,
-  "enableNetlifyCMS": false,
+  "enableNetlifyCMS": true,
   "enableComments": false,
   "enableEncryption": false,
   "enablePageNavigation": true
