@@ -1,13 +1,16 @@
 ---
 title: Hello, world.
-date: Last Modified 
+date: Last Modified
 permalink: /
 eleventyNavigation:
-  key: Hello 
+  key: Hello
   order: 0
   title: Hello, world.
 ---
-You have successfully launched your spacebook. If you are new here, you may want to [read the docs](https://spacebook.app/) for tips and tricks on setting up your project.
+If you need a document and can't find it please submit an issue. 
+
+https://github.com/bs-production/spacebook-1/issues
+
 
 ![Hello, world](/content/images/hello.jpg)
 
