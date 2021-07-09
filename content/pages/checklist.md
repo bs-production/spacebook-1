@@ -6,6 +6,6 @@ eleventyNavigation:
   order: 100
   key: Checklist
   title: Checklist
-  parent: dev
+  parent: Dev
 ---
 test
