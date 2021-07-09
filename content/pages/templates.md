@@ -7,13 +7,14 @@ eleventyNavigation:
   parent: Site Building
   key: Templates
 ---
-- Junkluggers 
-- Hello Garage
-- Klaus Roofing 
-- Basement Systems 
-   - ATB 
-- Foundation 
-- Dr Energy Saver
+* [Junkluggers](https://github.com/bs-production/junkluggers-template) 
+* [Hello Garage](https://github.com/bs-production/hello-garage-template)
+* Klaus Roofing 
+* Basement Systems 
+
+  * ATB 
+* Foundation 
+* Dr Energy Saver
 
 ## Hub Sites
 
