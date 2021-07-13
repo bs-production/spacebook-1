@@ -23,6 +23,28 @@ loading="lazy"
 title="[company] - How It Works"> </iframe>
 ```
 
+## Only Lazy Load On Mobile 
+
+```php
+<?php if($isMobile)  echo  'loading="lazy"' ?>
+```
+
+## Lazy Load CSS 
+
+The below snippet will load almost last.
+
+```html
+<link rel="stylesheet" href="https://use.typekit.net/uhd6ouc.css" media="print" onload="this.media='all'">
+```
+
+## Preload Fonts 
+
+```html
+<link rel="preload" href="/core/v2/fonts/texgyreadventor-regular-webfont.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/core/v2/fonts/texgyreadventor-bold-webfont.woff" as="font" type="font/woff" crossorigin>
+```
+
+
 ## Learning
 
 ## DOM Size
